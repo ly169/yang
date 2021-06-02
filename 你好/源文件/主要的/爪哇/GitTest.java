@@ -5,5 +5,6 @@ public class GitTest {
         System.out.println("创建分支");
         System.out.println("主干");
         System.out.println("分支");
+ System.out.println("在线更新");
     }
 }
